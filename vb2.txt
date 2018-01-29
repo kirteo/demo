@@ -1,1 +1,2 @@
-dit is een tweede file
+dit is een tweede file.
+Deze regel stond er eerst niet.
